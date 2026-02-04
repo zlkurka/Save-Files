@@ -1,4 +1,0 @@
-Name:Aris
-Class:Warlock
-Race:Half-elf
-Level:8
