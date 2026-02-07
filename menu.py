@@ -1,5 +1,4 @@
 from string import ascii_uppercase
-from collections import Counter
 
 def menu(options=list, menu_text=str):
 
